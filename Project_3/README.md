@@ -5,6 +5,6 @@
 
 Instructions to use:
 - Download all files in mcc
-- Type in make and run
-- Type in ./mission to see the project
+- Type in make and enter
+- Type in ./mission and enter to see the project
 
